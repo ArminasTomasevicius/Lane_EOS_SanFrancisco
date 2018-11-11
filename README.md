@@ -1,5 +1,8 @@
 # Lane_EOS San Francisco Hackathon 2018
 
+## Lane is a credit protocol for small businesses to leverage transaction data for insured invoice payments. Evens the playing field for all parties in B2B transactions
+
+Below manual how to run.
 
 
 # EOS boilerplate
