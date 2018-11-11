@@ -1,3 +1,7 @@
+### Lane_EOS San Francisco Hackathon 2018
+
+
+
 # EOS boilerplate
 
 This repository contains all the necessary tools to setup an EOS dApp environment and also contains a small example smart contract.
