@@ -59,8 +59,7 @@ export default {
                 }],
                 data: {
                     user: account.account_name,
-                    firstName,
-                    age,
+                    firstName
                 },
             }]
         }, {
